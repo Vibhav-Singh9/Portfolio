@@ -19,8 +19,6 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 - **JavaScript**
 - **Netlify** (Deployment)
 
-## 📂 Project Structure
-
 ## 📦 Deployment
 The portfolio is deployed on **Netlify** with automatic redeployment triggered on every push to the main branch.
 
