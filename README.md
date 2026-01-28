@@ -1,31 +1,28 @@
-🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-A responsive and modern personal portfolio website showcasing my skills, projects, and professional journey. The portfolio highlights my full-stack projects, including Code Spark, and provides easy access to live demos and source code.
+A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey as a software developer. This portfolio highlights my full-stack projects, including **Code Spark**, and provides direct access to live applications and source code.
 
-🚀 Live Website
-👉 https://vibhavsingh.netlify.app/
+## 🚀 Live Website
+👉 **View Portfolio:** https://vibhavsingh.netlify.app/
 
-🧩 Features
+## 🧩 Features
+- Clean and modern user interface
+- Fully responsive design (mobile, tablet, desktop)
+- Smooth scroll-based animations
+- Dedicated Projects section with live demo and GitHub links
+- About section with skills and education
+- Fast load time and simple navigation
 
-Clean and modern UI
-Fully responsive design (mobile, tablet, desktop)
-Smooth animations and transitions
-Dedicated Projects section with live demo & GitHub links
-About section with skills and education
-Easy navigation and fast load time
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Netlify** (Deployment)
 
-🛠️ Tech Stack
+## 📂 Project Structure
 
-HTML5
-CSS3
-JavaScript
-Font Awesome
-Netlify (Deployment)
+## 📦 Deployment
+The portfolio is deployed on **Netlify** with automatic redeployment triggered on every push to the main branch.
 
-📦 Deployment
-
-The portfolio is deployed on Netlify with automatic builds triggered on every push to the main branch.
-
-📄 License
-
-This project is open-source and available for personal use and learning.
+## 📄 License
+This project is open-source and available for personal use and learning purposes.
