@@ -39,8 +39,19 @@
                    With a strong foundation in programming and a creative mindset, 
                    I'm always eager to contribute to forward-thinking teams and grow into a skilled and impactful software engineer.
                 </p>
-                <a href="Pages/about.html" class="cta-button">More About Me</a>
+                <div class="hero-buttons">
+                        <a href="Pages/about.html" class="cta-button">
+                            More About Me
+                        </a>
+
+                        <a href="./resume/Vibhav_Singh_Resume.pdf" 
+                        download
+                        class="cta-button secondary-btn">
+                            Download Resume
+                        </a>
+               </div>
             </div>
+
             <div class="hero-image" data-aos="fade-left" data-aos-delay="200">
                 <img src="./Images/My_Image.jpg" alt="A photo of Vibhav Singh">
             </div>  
@@ -112,9 +123,9 @@
         <!-- Project 2 -->
         <div class="mini-project-item">
             <div class="project-info">
-                <h4>Snake Game</h4>
+                <h4>Gym Workout Planner</h4>
                 <div class="technologies">
-                    <span>HTML</span><span>CSS</span><span>JavaScript</span>
+                    <span>MERN Stack</span><span>JWT</span><span>EmailJS</span>
                 </div>
             </div>
             <a href="Pages/projects.html" class="read-more-btn">Read More <i class="fa-solid fa-arrow-right"></i></a>
@@ -128,21 +139,35 @@
 
     </main>
 
-    <footer>
-        <div class="footer-content container">
-            <h3>Let's Connect</h3>
-            <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
-            <a href="mailto:vibhavrajput2005@gmail.com" class="email-link">vibhavrajput2005@gmail.com</a>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/vibhav-singh-a321992b5" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="https://github.com/Vibhav-Singh9" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://x.com/VibhavS50111176" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-            </div>
-            <div class="copyright">
-                Designed & Built by Vibhav Singh © 2025
-            </div>
+    <!-- Footer -->
+   <footer>
+    <div class="footer-content container">
+        <h3>Let's Connect</h3>
+        <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/vibhav-singh-a321992b5" target="_blank">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="https://github.com/Vibhav-Singh9" target="_blank">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="https://x.com/VibhavS50111176" target="_blank">
+                <i class="fab fa-twitter"></i>
+            </a>
         </div>
-    </footer>
+
+        <div class="footer-bottom">
+           Designed & Built by Vibhav Singh © <span id="year"></span> 
+        </div>
+
+        <div class="footer-email">
+    <a href="mailto:vibhavrajput2005@gmail.com" class="email-link">
+        vibhavrajput2005@gmail.com
+    </a>
+</div>
+    </div>
+</footer>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="Js/script.js"></script>
